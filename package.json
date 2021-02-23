@@ -1,0 +1,16 @@
+{
+  "name": "@gatherer/basket",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "apollo-server": "^2.21.0",
+    "faker": "^5.4.0",
+    "graphql": "^15.5.0",
+    "ulid": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
